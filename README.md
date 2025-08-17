@@ -5,7 +5,7 @@ A complete end-to-end data analytics case study focusing on **vendor performance
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to analyze vendor purchase and sales data to uncover actionable insights such as:
 
