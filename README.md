@@ -1,5 +1,4 @@
 # Vendor-Performance-Analysis
-# Vendor Performance Data Analytics Project
 
 A complete end-to-end data analytics case study focusing on **vendor performance**, built with **SQL** and **Python**.  
 
